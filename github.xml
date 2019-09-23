@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubAccounts">
+    <account id="ed974fd9-4cd0-44b1-9b83-b78840799850" name="konstcos">
+      <server host="github.com" />
+    </account>
+  </component>
+</application>
